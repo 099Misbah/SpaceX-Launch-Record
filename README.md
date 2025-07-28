@@ -51,7 +51,5 @@ By exploring historical launch data, we identify how factors such as **launch si
 - **Matplotlib** & **Seaborn** – Data visualization
 - **Jupyter Notebook** – Interactive analysis and presentation
 
----
 
-## 📁 Repository Structure
 
